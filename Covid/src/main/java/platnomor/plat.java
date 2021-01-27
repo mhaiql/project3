@@ -14,7 +14,7 @@ public class plat {
     public static void main(String[] args) {
     int a;
     Scanner scan = new Scanner(System.in);
-    System.out.print("Masukkan sebuah bilangan : ");
+    System.out.print("Masukkan nomor plat kendaraan : ");
     a = scan.nextInt();
     if (a % 2 == 0) {
       System.out.print("Bilangan " + a + " adalah genap.\n");
