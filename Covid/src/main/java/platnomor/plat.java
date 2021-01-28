@@ -3,6 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/*
+    author
+    haiqal
+    khaffi
+*/
+
 package platnomor;
 
 import java.util.Scanner;
